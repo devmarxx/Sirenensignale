@@ -17,6 +17,12 @@ des Landes Nordrhein-Westfalen zum Warntag 2018.
 Eine selbstsignierte APK steht hier zum Download bereit:
 [http://www.arachnon.de/sirenensignale/de.arachnon.sirenensignale.apk](http://www.arachnon.de/sirenensignale/de.arachnon.sirenensignale.apk)
 
+Sollte während der Installation eine Meldung von Google Protect erscheinen:
+
+![protect](./protect.jpg)
+
+diese mit "Trotzdem installieren" bestätigen.
+
 ## Code
 
 Es handelt sich um eine Cordova App, die keinerlei Rechte auf dem Gerät erfordert. Sie ist mit der Mindestanforderung "SDK 22" und der "Ziel SDK 30" versehen. Somit zielt die App auf Android 11, lässt sich aber auch noch auf Android 5.1 installieren.
