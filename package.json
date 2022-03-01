@@ -1,0 +1,23 @@
+{
+  "name": "de.arachnon.sirenensignale",
+  "displayName": "Sirenensignale",
+  "version": "1.0.0",
+  "description": "Eine einfache App, die die aktuellen Sirenensignale in Deutschland erklärt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^10.1.1"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
